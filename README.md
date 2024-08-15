@@ -5,7 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dovanthang-ai" alt="dovanthang-ai" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@w3d_151" target="blank"><img src="https://img.shields.io/twitter/follow/@w3d_151?logo=twitter&style=for-the-badge" alt="@w3d_151" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/@w3d_151" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/@w3d_151?logo=twitter&style=for-the-badge" alt="@w3d_151" />
+    <span>🐦</span>
+  </a> 
+</p>
+
+<p align="left"> 
+  <a href="https://dovanthang.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-%230A74DA?style=for-the-badge" alt="Visit My Website" />
+    <span>🌐</span>
+  </a> 
+</p>
 
 - 🔭 I’m currently working on Grindy Technology [Tapspace](https://tap-space.com/)
 
