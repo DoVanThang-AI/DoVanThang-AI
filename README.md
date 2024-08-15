@@ -32,5 +32,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dovanthang-ai&show_icons=true&locale=en&layout=compact" alt="dovanthang-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dovanthang-ai&" alt="dovanthang-ai" /></p>
-![snake svg](https://github.com/DoVanThang-AI/DoVanThang-AI/blob/output/github-contribution-grid-snake-dark.svg)
+<br>
+![snake gif](https://github.com/DoVanThang-AI/DoVanThang-AI/blob/output/github-contribution-grid-snake-dark.svg)
 
