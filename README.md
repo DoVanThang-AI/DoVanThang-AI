@@ -38,10 +38,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://t.me/StevenDo_OnchainBlock" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram" height="30" width="40" />
-  </a>
-  <a href="mailto:dovanthang08072k@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Email_icon.png" alt="Email" height="30" width="40" />
+    <img align="center" src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" alt="Telegram" height="30" width="40" />
   </a>
 </p>
 
