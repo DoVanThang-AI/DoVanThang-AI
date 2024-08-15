@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Do Van Thang</h1>
-<h3 align="center">I am a backend programmer from Viet Nam</h3>
+<h3 align="center">I graduated with distinction in Computer Science in Vietnam. Currently, I am a Data Engineer and BackEnd developer in the technology field related to blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dovanthang-ai&label=Profile%20views&color=0e75b6&style=flat" alt="dovanthang-ai" /> </p>
 
