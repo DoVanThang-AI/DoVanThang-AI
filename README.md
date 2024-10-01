@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Python,Node contributor project**
+- 💬 Ask me about **Python,Nodejs,Airdrop,Retroactive,Invest,Node contributor project**
 
 - 📫 How to reach me **Dovanthang08072k@gmail.com**
 
