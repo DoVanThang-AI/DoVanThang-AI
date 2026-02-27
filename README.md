@@ -88,7 +88,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dovanthang-ai&show_icons=true&locale=en&layout=compact" alt="top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dovanthang-ai&amp;layout=compact&amp;langs_count=10&amp;exclude_repo=DoVanThang-AI" alt="top langs" />
 </p>
 
 <p>
