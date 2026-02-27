@@ -82,15 +82,7 @@
 ---
 
 ## Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dovanthang-ai&show_icons=true&locale=en" alt="stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=dovanthang-ai&layout=compact&langs_count=10" alt="top langs" />
-</p>
-
+---
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dovanthang-ai" alt="streak" />
 </p>
