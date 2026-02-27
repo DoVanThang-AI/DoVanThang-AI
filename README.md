@@ -84,11 +84,11 @@
 ## Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dovanthang-ai&show_icons=true&locale=en" alt="stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dovanthang-ai&show_icons=true&locale=en" alt="stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dovanthang-ai&amp;layout=compact&amp;langs_count=10&amp;exclude_repo=DoVanThang-AI" alt="top langs" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=dovanthang-ai&layout=compact&langs_count=10" alt="top langs" />
 </p>
 
 <p>
