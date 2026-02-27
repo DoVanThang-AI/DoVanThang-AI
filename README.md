@@ -73,7 +73,7 @@
 
 ## Connect with me
 
-- 🐦 Twitter: https://twitter.com/w3d_151  
+- 🐦 Twitter: https://twitter.com/cloudtechvn
 - 💼 LinkedIn: https://linkedin.com/in/stevendo0807/  
 - 💬 Telegram: https://t.me/StevenDo_OnchainBlock  
 - 🌐 Portfolio: https://dovanthang.vercel.app/  
