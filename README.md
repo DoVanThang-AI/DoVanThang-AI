@@ -32,6 +32,7 @@
 - 📈 **Financial markets** participant since **2022** (research + execution + risk mindset)
 - 🔭 Working on: **Grindy Technology — Tapspace**: https://tap-space.com/
 - 🌱 Learning: **Blockchain**, infra, and scaling data systems
+- ⚙️ lightnode | full node | Storage node | Validator : run devnet | testnet | validator mainnet 
 
 ---
 
