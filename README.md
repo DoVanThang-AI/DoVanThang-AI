@@ -22,6 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=dovanthang-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<img src="https://www.canva.com/design/DAHDnI6Ia8Q/dfeBK6u1iUExQtUH3r4KHA/view" width="100%" />
 ---
 
 ## About me
